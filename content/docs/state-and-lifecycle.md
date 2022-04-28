@@ -15,7 +15,7 @@ Consider the ticking clock example from [one of the previous sections](/docs/ren
 ```js{10}
 const root = ReactDOM.createRoot(document.getElementById('root'));
   
-function tick() {
+function tickFoo() {
   const element = (
     <div>
       <h1>Hello, world!</h1>
